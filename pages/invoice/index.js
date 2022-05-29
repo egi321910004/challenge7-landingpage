@@ -8,7 +8,7 @@ const App = () => {
     <>
       <Head>
         <title>Invoice</title>
-        <meta name="description" content="Create by Nandang" />
+        <meta name="description" content="Challenge07" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
